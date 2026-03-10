@@ -22,6 +22,9 @@ This project combines multiple data analytics tools:
 * **Power BI** → Building the interactive dashboard
 * **Jupyter Notebook** → Exploratory data analysis
 
+## 📊 Dashboard Preview
+
+![Dashboard](ScreenTime/powerbi/Dashboard.png)
 
 # 📈 What This Project Explores
 
